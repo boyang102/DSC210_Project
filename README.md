@@ -33,6 +33,7 @@ To use the different gradient descent algorithms in your project, simply import 
 
 ```python
 from your_script_name import gd_regressor, minibatch_regressor, sgd_regressor, adam_regressor
+```
 
 ## Visualizations
 The script includes code for plotting the dataset, the regression results, and the evolution of parameters and loss over iterations. To visualize these, simply run the plotting commands included in the script.
