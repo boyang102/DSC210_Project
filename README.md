@@ -37,9 +37,3 @@ from your_script_name import gd_regressor, minibatch_regressor, sgd_regressor, a
 
 ## Visualizations
 The script includes code for plotting the dataset, the regression results, and the evolution of parameters and loss over iterations. To visualize these, simply run the plotting commands included in the script.
-
-## Contributing
-Contributions, issues, and feature requests are welcome. Feel free to check issues page if you want to contribute.
-
-## License
-This Markdown-formatted README is comprehensive and provides a clear guide on how to install, use, and contribute to your project. Be sure to replace placeholders like `your_script_name` and `your-github-repo-link` with the actual script name and repository link.
